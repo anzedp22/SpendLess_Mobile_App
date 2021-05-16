@@ -1,0 +1,4 @@
+#Thu May 13 11:18:40 CEST 2021
+base.0=C\:\\Users\\anzeinmasa\\AndroidStudioProjects\\SpendLess6\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
